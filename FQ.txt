@@ -1,0 +1,1 @@
+MW logP nRot nHA nHD TPSA Fsp3 nRing nHet 
